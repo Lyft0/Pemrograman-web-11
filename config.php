@@ -59,7 +59,6 @@ function update($data, $id)
     WHERE
         id = '$id'";
 
-    var_dump($query);
     mysqli_query($con, $query);
 
     return mysqli_affected_rows($con);
