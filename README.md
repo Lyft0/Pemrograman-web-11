@@ -1,3 +1,3 @@
-# Tugas Praktikum Pemrograman Web Modul 11
+# Simple CRUD with PHP
 
-Holla
+PHP CRUD, bahasa Indonesia
